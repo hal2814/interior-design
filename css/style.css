@@ -1,0 +1,11 @@
+.column {
+  width: 30%;
+  float: left;
+  margin: 10px;
+  background-color: skyblue;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
